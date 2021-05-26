@@ -1,6 +1,6 @@
 # [Project 1: Time Series Modelling](https://github.com/Ruifeng2020/TimeSeriesModelling)
 
-![](https://github.com/Ruifeng2020/Ruifeng_Liu_Portfolio/blob/main/images/sp500.jpg)
+![](/images/sp500.jpg)
 
 # [Project 2: Value at Risk Estimation](https://github.com/Ruifeng2020/ValueAtRisk)
 
